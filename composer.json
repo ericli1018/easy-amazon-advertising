@@ -1,11 +1,11 @@
 {
-  "name": "mystudytime/amazon-advertising",
+  "name": "ericli1018/amazon-advertising",
   "description": "Amazon Advertising API v2 Client Library",
   "type": "library",
   "license": "MIT",
   "require": {
     "php": ">=7.2.0",
-    "guzzlehttp/guzzle": "6.*",
+    "guzzlehttp/guzzle": "7.*",
     "pimple/pimple": "~3.0",
     "monolog/monolog": "^1.22 || ^2.0",
     "ext-zlib": "*"
